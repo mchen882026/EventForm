@@ -1,0 +1,5 @@
+{
+  "name": "EventForm Automator",
+  "description": "A streamlined tool for converting Excel event lists into pre-filled Tally forms with built-in Zapier authentication and Copper CRM integration logic.",
+  "requestFramePermissions": []
+}
